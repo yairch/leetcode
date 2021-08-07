@@ -23,12 +23,7 @@
             nums1[k] = nums2[j];
             j++;
             k ++;
-
-            122300
-            256
         }
-
-        console.log(nums1)
     }
 
     // more items in nums2
@@ -37,8 +32,6 @@
             nums1[k] = nums2[j];
             j++;
             k ++;
-
-            console.log(nums1)
         }
     }
 
